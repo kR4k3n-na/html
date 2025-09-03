@@ -1,0 +1,15 @@
+format document with
+            install prettier extension
+            right click>> format document with>> configur default format>> prettier
+            go to setting>> setting>> search format on save>> check format on save
+
+
+
+Element
+    block Element: 
+                always start from new line
+                consumes the whole line
+                p, h, div.....
+    inline Element:
+                start from available space
+                consumes space as much as required
